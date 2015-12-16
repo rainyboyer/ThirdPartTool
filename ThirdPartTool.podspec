@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "ThirdPartTool"
   s.homepage     = "http://www.cnblogs.com/pen-ios/"
   s.license      = "MIT"
-  s.author       = { "Kratos" => "461400226@qq.com" }
+  s.author       = { "Pen" => "348402862@qq.com" }
 
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/rainyboyer/ThirdPartTool.git", :tag => "1.0.0" }
